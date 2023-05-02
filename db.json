@@ -5,6 +5,45 @@
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
       "age": 38,
+      "city": "Rio de Janeiro - RJ",
+      "id": 1
+    },
+    {
+      "email": "teste@mail.com",
+      "password": "$2a$10$.qxyApOBYujOdAok.xa7.OtRw6UwI8wBIrRlH2qNyOe6yb0GOs3PK",
+      "name": "Teste",
+      "id": 2
+    }
+  ],
+  "hotels": [
+    {
+      "name": "VOA Hotel Caxambu",
+      "address": "Rua Major Penha, 145 - Centro",
+      "description": "O VOA Hotel Caxambu é um tradicional e confortável hotel localizado no centro de Caxambu em Minas Gerais a apenas duas quadras do Parque das Águas, a maior atração turística da cidade, e ao lado de centro comercial. Fundado em 1884, é um dos hotéis mais antigos da cidade e que conserva até hoje sua fachada colonial, porém segue modernizando suas instalações. Suas acomodações possuem banheiro privativo, frigobar, telefone, ar condicionado e TV de Tela Plana com canais a cabo.",
+      "rooms_types": [
+        "Quartos para não fumantes",
+        "Suítes",
+        "Quartos para família"
+      ],
+      "price": 218,
+      "img": "",
+      "id": 1
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "VOA Hotel Caxambu",
+      "address": "Rua Major Penha, 145 - Centro",
+      "description": "O VOA Hotel Caxambu é um tradicional e confortável hotel localizado no centro de Caxambu em Minas Gerais a apenas duas quadras do Parque das Águas, a maior atração turística da cidade, e ao lado de centro comercial. Fundado em 1884, é um dos hotéis mais antigos da cidade e que conserva até hoje sua fachada colonial, porém segue modernizando suas instalações. Suas acomodações possuem banheiro privativo, frigobar, telefone, ar condicionado e TV de Tela Plana com canais a cabo.",
+      "img": "",
+      "id": 1
+    }
+  ],
+  "events": [
+    {
+      "name": "CAXAMBLUES MUSIC FESTIVAL",
+      "description": "Vem aí CAXAMBLUES MUSIC FESTIVAL, no Parque das Águas, durante os dias 28/04 (Sexta-feira) a partir das 18h, 29/04, 30/04 e 01/05 (Sábado, Domingo e Segunda) de 14h às 18h (Sábado, Domingo e Segunda) entrada pela portaria principal. É NECESSÁRIO AQUISIÇÃO DE INGRESSO. A partir das 18h entrada gratuita pela portaria do rinque de patinação. Teremos Food trucks, Shows ao Vivo, Cerveja Artesanal e Espaço Kids.",
+      "img": "",
       "id": 1
     }
   ]
