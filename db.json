@@ -1,50 +1,120 @@
 {
-  "users": [
-    {
-      "email": "kenzinho@mail.com",
-      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Kenzinho",
-      "age": 38,
-      "city": "Rio de Janeiro - RJ",
-      "id": 1
-    },
-    {
-      "email": "teste@mail.com",
-      "password": "$2a$10$.qxyApOBYujOdAok.xa7.OtRw6UwI8wBIrRlH2qNyOe6yb0GOs3PK",
-      "name": "Teste",
-      "id": 2
-    }
-  ],
-  "hotels": [
-    {
-      "name": "VOA Hotel Caxambu",
-      "address": "Rua Major Penha, 145 - Centro",
-      "description": "O VOA Hotel Caxambu é um tradicional e confortável hotel localizado no centro de Caxambu em Minas Gerais a apenas duas quadras do Parque das Águas, a maior atração turística da cidade, e ao lado de centro comercial. Fundado em 1884, é um dos hotéis mais antigos da cidade e que conserva até hoje sua fachada colonial, porém segue modernizando suas instalações. Suas acomodações possuem banheiro privativo, frigobar, telefone, ar condicionado e TV de Tela Plana com canais a cabo.",
-      "rooms_types": [
-        "Quartos para não fumantes",
-        "Suítes",
-        "Quartos para família"
-      ],
-      "price": 218,
-      "img": "",
-      "id": 1
-    }
-  ],
-  "restaurants": [
-    {
-      "name": "VOA Hotel Caxambu",
-      "address": "Rua Major Penha, 145 - Centro",
-      "description": "O VOA Hotel Caxambu é um tradicional e confortável hotel localizado no centro de Caxambu em Minas Gerais a apenas duas quadras do Parque das Águas, a maior atração turística da cidade, e ao lado de centro comercial. Fundado em 1884, é um dos hotéis mais antigos da cidade e que conserva até hoje sua fachada colonial, porém segue modernizando suas instalações. Suas acomodações possuem banheiro privativo, frigobar, telefone, ar condicionado e TV de Tela Plana com canais a cabo.",
-      "img": "",
-      "id": 1
-    }
-  ],
-  "events": [
-    {
-      "name": "CAXAMBLUES MUSIC FESTIVAL",
-      "description": "Vem aí CAXAMBLUES MUSIC FESTIVAL, no Parque das Águas, durante os dias 28/04 (Sexta-feira) a partir das 18h, 29/04, 30/04 e 01/05 (Sábado, Domingo e Segunda) de 14h às 18h (Sábado, Domingo e Segunda) entrada pela portaria principal. É NECESSÁRIO AQUISIÇÃO DE INGRESSO. A partir das 18h entrada gratuita pela portaria do rinque de patinação. Teremos Food trucks, Shows ao Vivo, Cerveja Artesanal e Espaço Kids.",
-      "img": "",
-      "id": 1
-    }
-  ]
+    "users": [
+        {
+            "email": "kenzinho@mail.com",
+            "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+            "name": "Kenzinho",
+            "city": "Rio de Janeiro - RJ",
+            "id": 1
+        },
+        {
+            "email": "teste@mail.com",
+            "password": "$2a$10$.qxyApOBYujOdAok.xa7.OtRw6UwI8wBIrRlH2qNyOe6yb0GOs3PK",
+            "name": "Teste",
+            "id": 2
+        }
+    ],
+    "hotels": [
+        {
+            "name": "Hotel Caxambu",
+            "address": "Rua Major Penha, 145 - Centro",
+            "description": "O VOA Hotel Caxambu é um tradicional e confortável hotel localizado no centro de Caxambu em Minas Gerais a apenas duas quadras do Parque das Águas, a maior atração turística da cidade, e ao lado de centro comercial. Fundado em 1884, é um dos hotéis mais antigos da cidade e que conserva até hoje sua fachada colonial, porém segue modernizando suas instalações. Suas acomodações possuem banheiro privativo, frigobar, telefone, ar condicionado e TV de Tela Plana com canais a cabo.",
+            "rooms_types": [
+                "Quartos para não fumantes",
+                "Suítes",
+                "Quartos para família"
+            ],
+            "category": "hotels",
+            "price": 218,
+            "img": "./images/voa-hotel-caxambu.jpg",
+            "id": 1
+        },
+        {
+            "name": "Hotel Bragança",
+            "address": "Rua Antonio Miguel Arnaut, 34 - Centro",
+            "description": "O Hotel Braganca de 3-estrelas está localizado a 6 km de Igreja Nhá Chica. O hotel hotel representa um estilo luxuoso Caxambu. Localizado perto de Museu Caxambú, o local fica perto de Matriz Nossa Senhora dos Remédios. Também está apenas a 40 minutos de carro de Parque das Águas. Todos os quartos do Hotel Braganca têm armário, escrivaninha e hi-fi, bem como chuveiro, bidé e lençóis de banho. Os quartos dispõem casas de banho de casas de banho privadas. Os hóspedes do Hotel Braganca poderão desfrutar de um pequeno-almoço diário durante o período da hospedagem. Restaurantes próximos Restaurante Sputinik e Faustino's Bar e Restaurante podem ser encontrados dentro de 100 metros de distância da propriedade. O hotel está situado perto de paragem de autocarros. Os hóspedes beneficiarão de serviço de porteiro, serviço de quarto e serviço de compras de conveniência, bem como depósito de bagagem e área específica para fumar. O hotel também oferece berços, área de jogo e sala de jogos.",
+            "rooms_types": [
+                "Quarto Individual",
+                "Quarto Triplo",
+                "Family Room"
+            ],
+            "category": "hotels",
+            "price": 218,
+            "img": "./images/hotel-bragança.jpg",
+            "id": 2
+        },
+        {
+            "name": "Hotel Glória Resort & Convention",
+            "address": "Av. Camilo Soares 590 - Centro",
+            "description": "O Hotel Glória Caxambu Resort & Convention, localizado no maior complexo hidromineral do mundo, no Sul de Minas Gerais, conta com clássica arquitetura e ocupa uma área de 25 mil metros quadrados em frente ao belíssimo Parque das Águas, na cidade de Caxambu. Inaugurado em meados do século anterior, com objetivo de oferecer hospedagem de alto luxo , aliando refúgio de descanso em cidades de estâncias hidrominerais, como também o prazer pelos jogos, o Hotel Glória Caxambu construiu o famoso Cassino Glória, onde recebia frequentemente públicos diversos, como políticos, empresários e demais autoridades da região e de todo o Brasil. Pela sua excelência no atendimento e nas suas confortáveis, espaçosas e requintadas suítes, conquistou um público que se tornou frequentador assíduo.",
+            "rooms_types": ["Standard", "Suíte", "Luxo"],
+            "category": "hotels",
+            "price": 218,
+            "img": "./images/hotel-gloria.jpg",
+            "id": 3
+        },
+        {
+            "name": "Hotel Pousada Estrada Real",
+            "address": "Rodovia BR 354, km 710",
+            "description": "A Pousada,  reúne em um só lugar diversas opções de lazer e cultura. A receita é diferenciada e excepcional. Reunimos entretenimento, História do Brasil e Educação em um único ambiente. A construção da Pousada retrata exatamente a arquitetura Barroca do século XVIII, o local escolhido é uma das cidades mais charmosas de Minas Gerais.",
+            "rooms_types": [
+                "Suíte Dona Leopoldina",
+                "Suíte Marquesa de Santos",
+                "Suíte Dupla Princesa Isabel",
+                "Suíte Dupla Tereza Cristina",
+                "Suíte Dupla Tiradentes",
+                "Suíte Dupla Dom Pedro"
+            ],
+            "category": "hotels",
+            "price": 218,
+            "img": "./images/hotel-estrada-real.jpg",
+            "id": 4
+        },
+        {
+            "name": "Hotel União",
+            "address": "Avenida João Pessoa, 284 - Centro",
+            "description": "Dispondo de piscina em frente ao restaurante, o Hotel União fica em frente ao Parque Águas de Caxambu. Para sua comodidade, o Wi-fi é gratuito. Os quartos do hotel são práticos e oferecem um ambiente agradável, e estão equipados com TV, frigobar e banheiro privativo. Além disso, alguns quartos oferecem ar-condicionado e TV LCD. O Hotel União dispõe de buffet de café da manhã diário e de um restaurante que serve pratos das cozinhas regional, portuguesa e internacional. Você também pode desfrutar de lanches e de bebidas na área da piscina, que é aquecida durante o inverno.",
+            "rooms_types": [
+                "Standard",
+                "Superior Interno",
+                "Superior com Varanda",
+                "Luxo",
+                "Conjugado com Varanda",
+                "Luxo Casal com Varanda"
+            ],
+            "category": "hotels",
+            "price": 218,
+            "img": "./images/hotel-uniao.jpg",
+            "id": 5
+        },
+        {
+            "name": "Pousada Águas de Caxambu",
+            "address": "Rua Major Penha, 204 - Centro",
+            "description": "A Pousada Águas de Caxambu tem localização privilegiada, no Centro da cidade, próximo ao Parque das Águas, do Centro de Convenções e do comércio. A trabalho ou a lazer, sua estadia em Caxambu-MG fica mais descontraída se hospedando conosco. Nosso ambiente é aconchegante e acolhedor, perfeito para descansar e fazer novas amizades.",
+            "rooms_types": ["Quarto Casal", "Quarto Duplo", "Quarto Triplo"],
+            "category": "hotels",
+            "price": 218,
+            "img": "./images/pousada-aguas.jpg",
+            "id": 6
+        }
+    ],
+    "restaurants": [
+        {
+            "name": "VOA Hotel Caxambu",
+            "address": "Rua Major Penha, 145 - Centro",
+            "description": "O VOA Hotel Caxambu é um tradicional e confortável hotel localizado no centro de Caxambu em Minas Gerais a apenas duas quadras do Parque das Águas, a maior atração turística da cidade, e ao lado de centro comercial. Fundado em 1884, é um dos hotéis mais antigos da cidade e que conserva até hoje sua fachada colonial, porém segue modernizando suas instalações. Suas acomodações possuem banheiro privativo, frigobar, telefone, ar condicionado e TV de Tela Plana com canais a cabo.",
+            "category": "restaurants",
+            "img": "",
+            "id": 1
+        }
+    ],
+    "events": [
+        {
+            "name": "CAXAMBLUES MUSIC FESTIVAL",
+            "description": "Vem aí CAXAMBLUES MUSIC FESTIVAL, no Parque das Águas, durante os dias 28/04 (Sexta-feira) a partir das 18h, 29/04, 30/04 e 01/05 (Sábado, Domingo e Segunda) de 14h às 18h (Sábado, Domingo e Segunda) entrada pela portaria principal. É NECESSÁRIO AQUISIÇÃO DE INGRESSO. A partir das 18h entrada gratuita pela portaria do rinque de patinação. Teremos Food trucks, Shows ao Vivo, Cerveja Artesanal e Espaço Kids.",
+            "category": "events",
+            "img": "",
+            "id": 1
+        }
+    ]
 }
