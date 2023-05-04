@@ -100,12 +100,57 @@
     ],
     "restaurants": [
         {
-            "name": "VOA Hotel Caxambu",
-            "address": "Rua Major Penha, 145 - Centro",
-            "description": "O VOA Hotel Caxambu é um tradicional e confortável hotel localizado no centro de Caxambu em Minas Gerais a apenas duas quadras do Parque das Águas, a maior atração turística da cidade, e ao lado de centro comercial. Fundado em 1884, é um dos hotéis mais antigos da cidade e que conserva até hoje sua fachada colonial, porém segue modernizando suas instalações. Suas acomodações possuem banheiro privativo, frigobar, telefone, ar condicionado e TV de Tela Plana com canais a cabo.",
+            "name": "Boi Ralado - Hamburgueria",
+            "address": "Avenida Ápio Cardoso, 350",
+            "description": "Casa de sanduíches artesanais - Aberto de quarta a domingo, dàs 19h à 0h",
             "category": "restaurants",
-            "img": "",
+            "img": "./images/restaurants/boi-ralado.jpg",
             "id": 1
+        },
+        {
+            "name": "Restaurante Coreto",
+            "address": "Praça 16 de Setembro, 59",
+            "description": "Desde 2012 abre diariamente p/ almoço com buffet self-service a quilo, priorizando o uso de produtos orgânicos e regionais. A comida servida no fogão à lenha e preparada com ingredientes frescos é um diferencial, oferecendo opções tanto para consumidores convencionais quanto para aqueles que buscam alternativas vegetarianas. Funciona: Segunda à Sexta de 11h às 15h. Sábados, Domingos e Feriados de 12h às 16h",
+            "contact": "(35) 98848-0572 whatsapp",
+            "category": "restaurants",
+            "img": "./images/restaurants/coreto.jpg",
+            "id": 2
+        },
+        {
+            "name": "Restaurante Morro do Cristo",
+            "address": "Morro Caxambu",
+            "description": "O Restaurante Morro do Cristo está situado no Complexo Turístico do Teleférico no Morro Caxambu - Aberto de quarta a segunda, das 9:00 às 18:00",
+            "contact": "(35) 98848-0572 whatsapp",
+            "category": "restaurants",
+            "img": "./images/restaurants/morro-do-cristo.jpg",
+            "id": 3
+        },
+        {
+            "name": "Restaurante Papillon",
+            "address": "Rua Ivon Curi, 119 - Centro",
+            "description": "Aberto das 11:00 ás 14:30",
+            "contact": "(35) 3341-1415",
+            "category": "restaurants",
+            "img": "./images/restaurants/papillon.jpg",
+            "id": 4
+        },
+        {
+            "name": "Uai Pizza",
+            "address": "Rua João Pinheiro, 402 - Centro",
+            "description": "Pizzaria de qualidade em MG. Pizza gourmet, sabor único - Aberto de quarta a segunda das 18:00 às 23:45",
+            "contact": "(35) 3341-2520",
+            "category": "restaurants",
+            "img": "./images/restaurants/uai-pizza.png",
+            "id": 5
+        },
+        {
+            "name": "Restaurante Chapa",
+            "address": "Rua Ivon, 119 - Centro",
+            "description": "Restaurante situado no calçadão de caxambu. Self-service por kg e refeições à la carte - Aberto de Segunda a Domingo das 11:00 às 15:00",
+            "contact": "(35) 3341-2600",
+            "category": "restaurants",
+            "img": "./images/restaurants/chapa.jpg",
+            "id": 6
         }
     ],
     "events": [
@@ -115,6 +160,35 @@
             "category": "events",
             "img": "",
             "id": 1
+        },
+        {
+            "name": "CAXAMBLUES MUSIC FESTIVAL",
+            "description": "Vem aí CAXAMBLUES MUSIC FESTIVAL, no Parque das Águas, durante os dias 28/04 (Sexta-feira) a partir das 18h, 29/04, 30/04 e 01/05 (Sábado, Domingo e Segunda) de 14h às 18h (Sábado, Domingo e Segunda) entrada pela portaria principal. É NECESSÁRIO AQUISIÇÃO DE INGRESSO. A partir das 18h entrada gratuita pela portaria do rinque de patinação. Teremos Food trucks, Shows ao Vivo, Cerveja Artesanal e Espaço Kids.",
+            "category": "events",
+            "img": "",
+            "id": 1
+        },
+        {
+            "name": "1ª Exposição de Artes do Coletivo Kairós",
+            "description": "A exposição de Artes acontecerá entre os dias14  e 15 - às 9h30 na Praça 16 de Setembro",
+            "category": "events",
+            "img": "",
+            "id": 2
+        },
+        {
+            "name": "Festival de Inverno",
+            "description": "O Festival acontecerá a partir do 20 de Julho, em breve teremos a programação completa disponível",
+            "category": "events",
+            "img": "",
+            "id": 3
+        },
+        {
+            "name": "II Encontro de Carros Antigos de Caxambu",
+            "description": "II Encontro de Carros Antigos de Caxambu. De 5 a 7 de maio a partir das 8h. Mercado de pulgas, praça de alimentação, shows ao vivo, sorteio de placa preta, brindes e muito mais. Evento aberto ao público Confira também a programação dos passeios turísticos e práticas Integrativas de saúde que ocorrem no mesmo período no Parque das Águas. Participe, convide seus amigos e sua família.",
+            "category": "events",
+            "img": "",
+            "id": 4
         }
-    ]
+    ],
+    "favorites": []
 }
