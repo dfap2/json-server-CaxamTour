@@ -26,7 +26,7 @@
             ],
             "category": "hotels",
             "price": 218,
-            "img": "../assets/images/hotels/voa-hotel-caxambu.jpg",
+            "img": "../../assets/images/hotels/voa-hotel-caxambu.jpg",
             "id": 1
         },
         {
@@ -40,7 +40,7 @@
             ],
             "category": "hotels",
             "price": 218,
-            "img": "../assets/images/hotels/hotel-bragança.jpg",
+            "img": "../../assets/images/hotels/hotel-bragança.jpg",
             "id": 2
         },
         {
@@ -50,7 +50,7 @@
             "rooms_types": ["Standard", "Suíte", "Luxo"],
             "category": "hotels",
             "price": 218,
-            "img": "../assets/images/hotels/hotel-gloria.jpg",
+            "img": "../../assets/images/hotels/hotel-gloria.jpg",
             "id": 3
         },
         {
@@ -67,7 +67,7 @@
             ],
             "category": "hotels",
             "price": 218,
-            "img": "../assets/images/hotels/hotel-estrada-real.jpg",
+            "img": "../../assets/images/hotels/hotel-estrada-real.jpg",
             "id": 4
         },
         {
@@ -84,7 +84,7 @@
             ],
             "category": "hotels",
             "price": 218,
-            "img": "../assets/images/hotels/hotel-uniao.jpg",
+            "img": "../../assets/images/hotels/hotel-uniao.jpg",
             "id": 5
         },
         {
@@ -94,7 +94,7 @@
             "rooms_types": ["Quarto Casal", "Quarto Duplo", "Quarto Triplo"],
             "category": "hotels",
             "price": 218,
-            "img": "../assets/images/hotels/pousada-aguas.jpg",
+            "img": "../../assets/images/hotels/pousada-aguas.jpg",
             "id": 6
         }
     ],
@@ -104,7 +104,7 @@
             "address": "Avenida Ápio Cardoso, 350",
             "description": "Casa de sanduíches artesanais - Aberto de quarta a domingo, dàs 19h à 0h",
             "category": "restaurants",
-            "img": "../assets/images/restaurants/boi-ralado.jpg",
+            "img": "../../assets/images/restaurants/boi-ralado.jpg",
             "id": 1
         },
         {
@@ -113,7 +113,7 @@
             "description": "Desde 2012 abre diariamente p/ almoço com buffet self-service a quilo, priorizando o uso de produtos orgânicos e regionais. A comida servida no fogão à lenha e preparada com ingredientes frescos é um diferencial, oferecendo opções tanto para consumidores convencionais quanto para aqueles que buscam alternativas vegetarianas. Funciona: Segunda à Sexta de 11h às 15h. Sábados, Domingos e Feriados de 12h às 16h",
             "contact": "(35) 98848-0572 whatsapp",
             "category": "restaurants",
-            "img": "../assets/images/restaurants/coreto.jpg",
+            "img": "../../assets/images/restaurants/coreto.jpg",
             "id": 2
         },
         {
@@ -122,7 +122,7 @@
             "description": "O Restaurante Morro do Cristo está situado no Complexo Turístico do Teleférico no Morro Caxambu - Aberto de quarta a segunda, das 9:00 às 18:00",
             "contact": "(35) 98848-0572 whatsapp",
             "category": "restaurants",
-            "img": "../assets/images/restaurants/morro-do-cristo.jpg",
+            "img": "../../assets/images/restaurants/morro-do-cristo.jpg",
             "id": 3
         },
         {
@@ -131,7 +131,7 @@
             "description": "Aberto das 11:00 ás 14:30",
             "contact": "(35) 3341-1415",
             "category": "restaurants",
-            "img": "../assets/images/restaurants/papillon.jpg",
+            "img": "../../assets/images/restaurants/papillon.jpg",
             "id": 4
         },
         {
@@ -140,7 +140,7 @@
             "description": "Pizzaria de qualidade em MG. Pizza gourmet, sabor único - Aberto de quarta a segunda das 18:00 às 23:45",
             "contact": "(35) 3341-2520",
             "category": "restaurants",
-            "img": "../assets/images/restaurants/uai-pizza.png",
+            "img": "../../assets/images/restaurants/uai-pizza.png",
             "id": 5
         },
         {
@@ -149,7 +149,7 @@
             "description": "Restaurante situado no calçadão de caxambu. Self-service por kg e refeições à la carte - Aberto de Segunda a Domingo das 11:00 às 15:00",
             "contact": "(35) 3341-2600",
             "category": "restaurants",
-            "img": "../assets/images/restaurants/chapa.jpg",
+            "img": "../../assets/images/restaurants/chapa.jpg",
             "id": 6
         }
     ],
@@ -158,28 +158,28 @@
             "name": "CAXAMBLUES MUSIC FESTIVAL",
             "description": "Vem aí CAXAMBLUES MUSIC FESTIVAL, no Parque das Águas, durante os dias 28/04 (Sexta-feira) a partir das 18h, 29/04, 30/04 e 01/05 (Sábado, Domingo e Segunda) de 14h às 18h (Sábado, Domingo e Segunda) entrada pela portaria principal. É NECESSÁRIO AQUISIÇÃO DE INGRESSO. A partir das 18h entrada gratuita pela portaria do rinque de patinação. Teremos Food trucks, Shows ao Vivo, Cerveja Artesanal e Espaço Kids.",
             "category": "events",
-            "img": "../assets/images/events/caxamblues.png",
+            "img": "../../assets/images/events/caxamblues.png",
             "id": 1
         },
         {
             "name": "1ª Exposição de Artes do Coletivo Kairós",
             "description": "A exposição de Artes acontecerá entre os dias14  e 15 - às 9h30 na Praça 16 de Setembro",
             "category": "events",
-            "img": "../assets/images/events/kairos.jpeg",
+            "img": "../../assets/images/events/kairos.jpeg",
             "id": 2
         },
         {
             "name": "Festival de Inverno",
             "description": "O Festival acontecerá a partir do 20 de Julho, em breve teremos a programação completa disponível",
             "category": "events",
-            "img": "../assets/images/events/festival-de-inverno.jpg",
+            "img": "../../assets/images/events/festival-de-inverno.jpg",
             "id": 3
         },
         {
             "name": "II Encontro de Carros Antigos de Caxambu",
             "description": "II Encontro de Carros Antigos de Caxambu. De 5 a 7 de maio a partir das 8h. Mercado de pulgas, praça de alimentação, shows ao vivo, sorteio de placa preta, brindes e muito mais. Evento aberto ao público Confira também a programação dos passeios turísticos e práticas Integrativas de saúde que ocorrem no mesmo período no Parque das Águas. Participe, convide seus amigos e sua família.",
             "category": "events",
-            "img": "../assets/images/evenst/kairos.jpeg",
+            "img": "../../assets/images/evenst/kairos.jpeg",
             "id": 4
         }
     ],
@@ -195,9 +195,9 @@
             ],
             "category": "hotels",
             "price": 218,
-            "img": "../assets/images/hotels/hotel-bragança.jpg",
+            "img": "../../assets/images/hotels/hotel-bragança.jpg",
             "userId": 1,
-            "id": 2
+            "id": 1
         }
     ]
 }
