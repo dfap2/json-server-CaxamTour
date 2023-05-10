@@ -26,7 +26,7 @@
             ],
             "category": "hotels",
             "price": 218,
-            "img": "../../assets/images/hotels/voa-hotel-caxambu.jpg",
+            "img": "https://media-cdn.tripadvisor.com/media/photo-o/1c/bb/25/bf/voa-hotel-caxambu.jpg",
             "id": 1
         },
         {
@@ -40,7 +40,7 @@
             ],
             "category": "hotels",
             "price": 218,
-            "img": "../../assets/images/hotels/hotel-bragança.jpg",
+            "img": "http://hotel-braganca-caxambu.minas-gerais-hotels.com/data/Images/r1920x1080/12462/1246256/1246256035/image-caxambu-hotel-braganca-37440000-3.JPEG",
             "id": 2
         },
         {
@@ -50,7 +50,7 @@
             "rooms_types": ["Standard", "Suíte", "Luxo"],
             "category": "hotels",
             "price": 218,
-            "img": "../../assets/images/hotels/hotel-gloria.jpg",
+            "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/4b/e3/46/fachada-hotel.jpg?w=800&h=-1&s=1",
             "id": 3
         },
         {
@@ -67,7 +67,7 @@
             ],
             "category": "hotels",
             "price": 218,
-            "img": "../../assets/images/hotels/hotel-estrada-real.jpg",
+            "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207594716.jpg?k=33e9ed87bf6a4da2944856e24c8b13624784e00f58c0e3164088c3ba78359247&o=&hp=1",
             "id": 4
         },
         {
@@ -84,7 +84,7 @@
             ],
             "category": "hotels",
             "price": 218,
-            "img": "../../assets/images/hotels/hotel-uniao.jpg",
+            "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/b3/51/c9/interna.jpg?w=800&h=-1&s=1",
             "id": 5
         },
         {
@@ -94,7 +94,7 @@
             "rooms_types": ["Quarto Casal", "Quarto Duplo", "Quarto Triplo"],
             "category": "hotels",
             "price": 218,
-            "img": "../../assets/images/hotels/pousada-aguas.jpg",
+            "img": "https://media-cdn.tripadvisor.com/media/photo-s/07/fe/18/9d/frente-da-pousada.jpg",
             "id": 6
         }
     ],
@@ -104,7 +104,7 @@
             "address": "Avenida Ápio Cardoso, 350",
             "description": "Casa de sanduíches artesanais - Aberto de quarta a domingo, dàs 19h à 0h",
             "category": "restaurants",
-            "img": "https://imgur.com/XGY3SSH",
+            "img": "https://scontent-gru2-1.xx.fbcdn.net/v/t1.6435-9/36175977_1703757489674160_3191673936634970112_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=d4fFgUVBiQMAX9Z2Sz8&_nc_ht=scontent-gru2-1.xx&oh=00_AfBKASz9gpOixxjyZoN1yvB1XtwMShNkD_ISaewD2u43yw&oe=6483686B",
             "id": 1
         },
         {
@@ -113,7 +113,7 @@
             "description": "Desde 2012 abre diariamente p/ almoço com buffet self-service a quilo, priorizando o uso de produtos orgânicos e regionais. A comida servida no fogão à lenha e preparada com ingredientes frescos é um diferencial, oferecendo opções tanto para consumidores convencionais quanto para aqueles que buscam alternativas vegetarianas. Funciona: Segunda à Sexta de 11h às 15h. Sábados, Domingos e Feriados de 12h às 16h",
             "contact": "(35) 98848-0572 whatsapp",
             "category": "restaurants",
-            "img": "https://imgur.com/345X60L",
+            "img": "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/241257460_4939243532770368_6876897645688617465_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=yXkVWnZJluYAX_cnqVT&_nc_ht=scontent-gru1-1.xx&oh=00_AfAQrg91QLXBDn5ZQHvTop-42UxtNxprHGphXGhUgmPqvg&oe=6460A74B",
             "id": 2
         },
         {
@@ -122,7 +122,7 @@
             "description": "O Restaurante Morro do Cristo está situado no Complexo Turístico do Teleférico no Morro Caxambu - Aberto de quarta a segunda, das 9:00 às 18:00",
             "contact": "(35) 98848-0572 whatsapp",
             "category": "restaurants",
-            "img": "https://imgur.com/rAcop8q",
+            "img": "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/302079338_534390061822940_6498502231929708425_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=P2onU0fFJCYAX8yah3l&_nc_ht=scontent-gru1-1.xx&oh=00_AfBOpyeRNYbFLi_8R56AgULvLC4vczbT2VXR0oAJZ5dZ-g&oe=64609452",
             "id": 3
         },
         {
@@ -131,7 +131,7 @@
             "description": "Aberto das 11:00 ás 14:30",
             "contact": "(35) 3341-1415",
             "category": "restaurants",
-            "img": "https://imgur.com/xpyT9Yl",
+            "img": "https://www.minasgerais.com.br/imagens/atracoes/1508784887E6d8kBJ158.jpg",
             "id": 4
         },
         {
@@ -140,7 +140,7 @@
             "description": "Pizzaria de qualidade em MG. Pizza gourmet, sabor único - Aberto de quarta a segunda das 18:00 às 23:45",
             "contact": "(35) 3341-2520",
             "category": "restaurants",
-            "img": "https://imgur.com/8EVUFp9",
+            "img": "https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/294439698_470529431741483_2768571745052081238_n.png?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=luYqJB8wh1IAX9g8SxP&_nc_ht=scontent-gru2-2.xx&oh=00_AfAOW0zIaTVauIC4hzUcJcj-Q2KvKfkcrwCUsSs24iSQew&oe=64603CFB",
             "id": 5
         },
         {
@@ -149,7 +149,7 @@
             "description": "Restaurante situado no calçadão de caxambu. Self-service por kg e refeições à la carte - Aberto de Segunda a Domingo das 11:00 às 15:00",
             "contact": "(35) 3341-2600",
             "category": "restaurants",
-            "img": "https://imgur.com/UV92p13",
+            "img": "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/212083590_4383574795068976_2911885115947739808_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=202i1F9wy4UAX9rptbp&_nc_ht=scontent-gru1-2.xx&oh=00_AfDRTqC9NmA3ntNMozvQrGPieWQ8zZkcQL4sVc-b1YoHUg&oe=64617FF5",
             "id": 6
         }
     ],
@@ -158,28 +158,28 @@
             "name": "CAXAMBLUES MUSIC FESTIVAL",
             "description": "Vem aí CAXAMBLUES MUSIC FESTIVAL, no Parque das Águas, durante os dias 28/04 (Sexta-feira) a partir das 18h, 29/04, 30/04 e 01/05 (Sábado, Domingo e Segunda) de 14h às 18h (Sábado, Domingo e Segunda) entrada pela portaria principal. É NECESSÁRIO AQUISIÇÃO DE INGRESSO. A partir das 18h entrada gratuita pela portaria do rinque de patinação. Teremos Food trucks, Shows ao Vivo, Cerveja Artesanal e Espaço Kids.",
             "category": "events",
-            "img": "../../assets/images/events/caxamblues.png",
+            "img": "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/343440015_945276950146927_2606761197934155302_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=HvfzvnhfErYAX-23wLu&_nc_ht=scontent-gru1-1.xx&oh=00_AfCkNFp0P_Sby7uuTbNW8hRvQ6hBY20RCNRNH5y155R2bQ&oe=645FF878",
             "id": 1
         },
         {
             "name": "1ª Exposição de Artes do Coletivo Kairós",
             "description": "A exposição de Artes acontecerá entre os dias14  e 15 - às 9h30 na Praça 16 de Setembro",
             "category": "events",
-            "img": "../../assets/images/events/kairos.jpeg",
+            "img": "http://turismocaxambu.com.br/v1/wp-content/uploads/2023/01/calcadao_cultura.jpeg",
             "id": 2
         },
         {
             "name": "Festival de Inverno",
             "description": "O Festival acontecerá a partir do 20 de Julho, em breve teremos a programação completa disponível",
             "category": "events",
-            "img": "../../assets/images/events/festival-de-inverno.jpg",
+            "img": "https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/343613658_6425379680826805_1830056629497969938_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=-c_U7fFNe48AX8dDyb0&_nc_ht=scontent-gru2-2.xx&oh=00_AfAOMxROlPy3NIWk_CmUveMoZjtWJxdfPSyIOmY2pMX-hA&oe=6460E115",
             "id": 3
         },
         {
             "name": "II Encontro de Carros Antigos de Caxambu",
             "description": "II Encontro de Carros Antigos de Caxambu. De 5 a 7 de maio a partir das 8h. Mercado de pulgas, praça de alimentação, shows ao vivo, sorteio de placa preta, brindes e muito mais. Evento aberto ao público Confira também a programação dos passeios turísticos e práticas Integrativas de saúde que ocorrem no mesmo período no Parque das Águas. Participe, convide seus amigos e sua família.",
             "category": "events",
-            "img": "../../assets/images/events/carros-antigos.jpg",
+            "img": "https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/343935277_616775093679658_330465888752416907_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=NtgwL1bnldYAX9l8clx&_nc_ht=scontent-gru2-1.xx&oh=00_AfCmhm_t4pwkNSDwSmvqk8B9NPHaVCFtmShLRWg6xFwRqQ&oe=64614062",
             "id": 4
         }
     ],
@@ -195,7 +195,7 @@
             ],
             "category": "hotels",
             "price": 218,
-            "img": "../../assets/images/hotels/hotel-bragança.jpg",
+            "img": "http://hotel-braganca-caxambu.minas-gerais-hotels.com/data/Images/r1920x1080/12462/1246256/1246256035/image-caxambu-hotel-braganca-37440000-3.JPEG",
             "userId": 1,
             "id": 1
         }
