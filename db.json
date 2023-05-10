@@ -104,7 +104,7 @@
             "address": "Avenida Ápio Cardoso, 350",
             "description": "Casa de sanduíches artesanais - Aberto de quarta a domingo, dàs 19h à 0h",
             "category": "restaurants",
-            "img": "../../assets/images/restaurants/boi-ralado.jpg",
+            "img": "https://imgur.com/XGY3SSH",
             "id": 1
         },
         {
@@ -113,7 +113,7 @@
             "description": "Desde 2012 abre diariamente p/ almoço com buffet self-service a quilo, priorizando o uso de produtos orgânicos e regionais. A comida servida no fogão à lenha e preparada com ingredientes frescos é um diferencial, oferecendo opções tanto para consumidores convencionais quanto para aqueles que buscam alternativas vegetarianas. Funciona: Segunda à Sexta de 11h às 15h. Sábados, Domingos e Feriados de 12h às 16h",
             "contact": "(35) 98848-0572 whatsapp",
             "category": "restaurants",
-            "img": "../../assets/images/restaurants/coreto.jpg",
+            "img": "https://imgur.com/345X60L",
             "id": 2
         },
         {
@@ -122,7 +122,7 @@
             "description": "O Restaurante Morro do Cristo está situado no Complexo Turístico do Teleférico no Morro Caxambu - Aberto de quarta a segunda, das 9:00 às 18:00",
             "contact": "(35) 98848-0572 whatsapp",
             "category": "restaurants",
-            "img": "../../assets/images/restaurants/morro-do-cristo.jpg",
+            "img": "https://imgur.com/rAcop8q",
             "id": 3
         },
         {
@@ -131,7 +131,7 @@
             "description": "Aberto das 11:00 ás 14:30",
             "contact": "(35) 3341-1415",
             "category": "restaurants",
-            "img": "../../src/assets/images/restaurants/papillon.jpg",
+            "img": "https://imgur.com/xpyT9Yl",
             "id": 4
         },
         {
@@ -140,7 +140,7 @@
             "description": "Pizzaria de qualidade em MG. Pizza gourmet, sabor único - Aberto de quarta a segunda das 18:00 às 23:45",
             "contact": "(35) 3341-2520",
             "category": "restaurants",
-            "img": "../../assets/images/restaurants/uai-pizza.png",
+            "img": "https://imgur.com/8EVUFp9",
             "id": 5
         },
         {
@@ -149,7 +149,7 @@
             "description": "Restaurante situado no calçadão de caxambu. Self-service por kg e refeições à la carte - Aberto de Segunda a Domingo das 11:00 às 15:00",
             "contact": "(35) 3341-2600",
             "category": "restaurants",
-            "img": "../../assets/images/restaurants/chapa.jpg",
+            "img": "https://imgur.com/UV92p13",
             "id": 6
         }
     ],
